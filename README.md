@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img width="659" height="660" alt="ascii-art" src="https://github.com/user-attachments/assets/2203fa89-843c-4601-8508-9dd48bbf4e55" />
+
 <!--
 **shuhailycasan/shuhailycasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
