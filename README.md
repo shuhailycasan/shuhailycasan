@@ -1,18 +1,36 @@
-## Hi there 👋
+<table>
+  <tr>
+    <td>
+      <img width="659" height="876" alt="ascii-art" src="https://github.com/user-attachments/assets/56749043-bee2-4afd-9de5-d6fb7da64d9d" />
+    </td>
+    <td>
+<pre><b>📧 shuhailycasan@gmail.com</b>
 
-<img width="659" height="660" alt="ascii-art" src="https://github.com/user-attachments/assets/2203fa89-843c-4601-8508-9dd48bbf4e55" />
+<b>🧠 IDE:</b> PhpStorm, VSCode 1.96.0
+<b>💻 Languages.Programming:</b> Php, Python, Java, JavaScript, R
+<b>🖥️ Languages.Computer:</b>    HTML, CSS, JSON
+<b>🔧 Frameworks:</b>            Laravel, Vue, Livewire, Tailwind
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bootstrap, Alpine.js, Streamlit
+<b>💼 Tech Stack:</b>            PHP, Laravel, Livewire, MySQL, Bootstrap
+<b>🛠 Tech.Tools:</b>             Git, GitHub, Insomnia, MySQL, Composer
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Laravel Artisan, Chrome DevTools, XAMPP
+<b>🗣️ Languages.Real:</b>        Filipino, English
 
-<!--
-**shuhailycasan/shuhailycasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<b>📇 Contact:</b>
+   Email:       shuhailycasan@gmail.com
+   LinkedIn:    [shuhailycasan](https://www.linkedin.com/in/shuhailycasan/)
+   Facebook:    [shuhailycasan](https://www.facebook.com/shuhaily.casan/)
+<b>🚧 Currently Working On:</b>
+   Laravel Livewire Projects,  Blade & PHP best practices
+   Improving UI/UX with Bootstrap & AOS, Learning Git
+   
+<b>🌱 Learning Goals:</b>
+   Understand Laravel deeply, write clean/testable PHP code, 
+   explore backend APIs & DB design, become job-ready 
+   as a junior dev
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   
+</pre>
+    </td>
+  </tr>
+</table>
