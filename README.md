@@ -1,9 +1,9 @@
-<table>
+<table style="width: 100%; table-layout: fixed;">
   <tr>
-    <td>
-      <img width="659" height="876" alt="ascii-art" src="https://github.com/user-attachments/assets/56749043-bee2-4afd-9de5-d6fb7da64d9d" />
+    <td style="width: 50%; vertical-align: top;">
+      <img width="100%" height="auto" alt="ascii-art" src="https://github.com/user-attachments/assets/56749043-bee2-4afd-9de5-d6fb7da64d9d" />
     </td>
-    <td>
+    <td style="width: 50%; vertical-align: top;">
 <pre><b>📧 shuhailycasan@gmail.com</b>
 
 <b>🧠 IDE:</b> PhpStorm, VSCode 1.96.0
@@ -18,18 +18,15 @@
 
 <b>📇 Contact:</b>
    Email:       shuhailycasan@gmail.com
-   LinkedIn:    [shuhailycasan](https://www.linkedin.com/in/shuhailycasan/)
-   Facebook:    [shuhailycasan](https://www.facebook.com/shuhaily.casan/)
+   LinkedIn:    <a href="https://www.linkedin.com/in/shuhailycasan/">shuhailycasan</a>
+   Facebook:    <a href="https://www.facebook.com/shuhaily.casan/">shuhailycasan</a>
 <b>🚧 Currently Working On:</b>
-   Laravel Livewire Projects,  Blade & PHP best practices
+   Laravel Livewire Projects, Blade & PHP best practices
    Improving UI/UX with Bootstrap & AOS, Learning Git
-   
 <b>🌱 Learning Goals:</b>
-   Understand Laravel deeply, write clean/testable PHP code, 
-   explore backend APIs & DB design, become job-ready 
+   Understand Laravel deeply, write clean/testable PHP code
+   Explore backend APIs & DB design, become job-ready 
    as a junior dev
-
-   
 </pre>
     </td>
   </tr>
